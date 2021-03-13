@@ -1,0 +1,16 @@
+package addmethod;
+
+public class my method{
+ int total() {
+ int a_value = 10+ 10;
+   return a_value;
+   }
+   
+   public class TestMethod {
+    public static void main(String [ ] args)  {
+     MyMethods test1 = new MyMethods() ;
+     int aval = test1.total();
+     system.out.printIn ( "Method result = " + aVal);
+     }
+     }
+   }
